@@ -45,5 +45,3 @@ wget -O lao_install.sh https://raw.githubusercontent.com/bounkirdni-2025/aaPanel
 ---
 *ສ້າງຂຶ້ນເພື່ອອະນາຄົດຂອງ ບ່າວໄອທີ ແລະ ສາວບັນຊີ ຂອງ ສປປ ລາວ!* 🇱🇦✨
 ```
-
----
